@@ -9,5 +9,4 @@ public class Poo2semestreApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(Poo2semestreApplication.class, args);
 	}
-
 }
